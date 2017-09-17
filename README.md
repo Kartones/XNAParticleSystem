@@ -6,7 +6,7 @@ Basic 3D particle engine, built on the first version of Microsoft XNA, by me and
 Uses the XNA content pipeline and input components, and basically renders particles using 2D textures and implementing
 a few different emmiters.
 
-You can check a brief slidedeck about it at [http://slides.kartones.net/013.htm](http://slides.kartones.net/013.htm)
+You can check a brief slidedeck about it at [https://slides.kartones.net/013.htm](https://slides.kartones.net/013.htm)
 
 Notes
 -----
